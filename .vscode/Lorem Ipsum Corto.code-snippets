@@ -1,0 +1,10 @@
+{
+"Lorem Ipsum Corto": {
+	"scope": "html ,javascript",
+	"prefix": "clorem",
+	"body": [
+		"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eos dolore deserunt temporibus dolorem repellat itaque laboriosam sit delectus quis."
+	],
+	"description": "Lorem mas corto"
+	}
+}

@@ -6,5 +6,13 @@
 		"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eos dolore deserunt temporibus dolorem repellat itaque laboriosam sit delectus quis."
 	],
 	"description": "Lorem mas corto"
-	}
+	},
+"Loremsito": {
+	"scope": "html ,javascript",
+	"prefix": "lilo",
+	"body": [
+		"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+	],
+	"description": "Lorem super corto"
+}
 }
